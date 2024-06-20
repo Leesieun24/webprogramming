@@ -1,3 +1,3 @@
 var msg='Hello';
-msg='World';
+msg=100;
 console.log(msg);
